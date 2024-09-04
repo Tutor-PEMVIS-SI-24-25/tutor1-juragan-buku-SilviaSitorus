@@ -1,0 +1,3 @@
+Membuat input dan output
+Membuat declare
+Memperhatikan ke erroran dalam program

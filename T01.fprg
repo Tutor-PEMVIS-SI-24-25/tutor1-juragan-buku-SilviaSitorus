@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:09 PM"/>
+        <attribute name="created" value="VXNlcjtMQVBUT1AtVFFORDlLUEM7MjAyNC0wOS0wNDswODo1ODoxOCBQTTsyODA5"/>
+        <attribute name="edited" value="VXNlcjtMQVBUT1AtVFFORDlLUEM7MjAyNC0wOS0wNDswOToxMDowOSBQTTsxOzI5MDY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Selamat Datang di Objek Buku Ucok dan Butet&quot;" newline="True"/>
+            <output expression="&quot;Berapa code ISBN-13?&quot;" newline="True"/>
+            <declare name="code" type="String" array="False" size=""/>
+            <input variable="code"/>
+            <output expression="code" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
